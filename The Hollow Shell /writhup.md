@@ -26,6 +26,9 @@ Nmap done: 1 IP address (1 host up) scanned in 9.20 seconds
     
 (Passphrase): StayNoticed2024!
 ```
+<img width="2716" height="1630" alt="image" src="https://github.com/user-attachments/assets/163da9cb-6da0-40a9-8ca2-f20f61b2b785" />
+
+
 
 
 
