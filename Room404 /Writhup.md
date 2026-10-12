@@ -14,3 +14,4 @@ feroxbuster \
 ```
 dirsearch -u http://10.49.181.208:8080/ -e php,txt,html,js
 ```
+<img width="2032" height="1222" alt="image" src="https://github.com/user-attachments/assets/5a47e01d-79a7-4d29-af2b-233cf155e4f6" />
