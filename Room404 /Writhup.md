@@ -75,3 +75,6 @@ git-dumper http://10.49.181.208:8080/.git repo
 [-] Running git checkout .
 Updated 3 paths from the index
 ```
+
+<img width="1314" height="412" alt="image" src="https://github.com/user-attachments/assets/071c3cde-79d4-4c25-97b6-907ad8110e4c" />
+
