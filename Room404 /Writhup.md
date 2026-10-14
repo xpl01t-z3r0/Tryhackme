@@ -82,3 +82,5 @@ Updated 3 paths from the index
 ```
 git show HEAD
 ```
+
+<img width="1920" height="1346" alt="image" src="https://github.com/user-attachments/assets/d1756c92-7958-4c3f-b1ad-570393c06e6d" />
